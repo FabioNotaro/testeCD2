@@ -1,0 +1,70 @@
+/* CSS GERAL */
+
+*{
+    font-family: "Livvic";
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.alert{
+    text-transform: uppercase;
+}
+
+/* CSS HEADER */
+
+.img-banner{
+    width: 600px;
+}
+.top-left{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title-banner{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: rgb(209, 92, 24);
+}
+.desc-banner{
+    font-size: 1.2rem;
+}
+
+/* CSS HEADER */
+
+/* CSS BODY */
+
+.body-home{
+    padding-top:100px;
+    background-color:rgb(252, 246, 239);
+    padding-bottom: 80px;
+}
+.search-cep{
+    width: 40%;
+}
+.list-address{
+    margin-top:70px;
+}
+.btn-info{
+    color: #FFF;
+}
+.teste{
+    font-weight: normal !important;
+}
+
+/* CSS BODY */
+
+/* CSS FOOTER */
+
+.footer{
+    text-align: center;
+    background-color:#444;
+    color: #FFF;
+    margin: 0 !important;
+    padding:20px;
+    width: 100% !important;
+}
+
+/* CSS FOOTER */
