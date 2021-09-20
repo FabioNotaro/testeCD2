@@ -2,6 +2,7 @@
 
 Teste de seleção para vaga PHP
 
+
 ## Faça um fork desse projeto e siga as intruções a seguir utilizando esse projeto.
 
 Construir uma aplicação web para buscar endereço. Aplicação deve fazer uma chamada na API via cep : https://viacep.com.br/.
@@ -24,3 +25,8 @@ Premissas:
 
 # Entrega: 
  * Disponibilizar um link do repositório no GitHub e encaminhar para developer@cd2.com.br
+
+INFORMAÇÕES SOBRE O PROJETO
+
+PARA RODAR O PROJETO COM O MVC, RODE O COMANDO COMPOSE INSTALL E DEPOIS COMPOSER UPDATE NO DIRETORIO DO PROJETO. 
+CASO NECESSÁRIO, FAÇA AJUSTES NO ARQUIVO CONFIG.PHP.
